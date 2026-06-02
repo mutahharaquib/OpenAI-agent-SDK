@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@openai/agents": "^0.11.6",
+    "axios": "^1.16.1",
     "dotenv": "^17.4.2",
     "zod": "^4.4.3"
   }
