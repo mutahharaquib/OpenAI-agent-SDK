@@ -1,0 +1,18 @@
+{
+  "name": "openai-agent-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "mutahharaquib",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.11.6",
+    "dotenv": "^17.4.2",
+    "zod": "^4.4.3"
+  }
+}
